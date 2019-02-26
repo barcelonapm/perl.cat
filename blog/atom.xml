@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Perl.cat</title>
+    <link rel="alternate" type="text/html" href="http://perl.cat/blog/" />
+    <link rel="self" type="application/atom+xml" href="http://perl.cat/blog/atom.xml" />
+    <id>tag:perl.cat,2009-05-07:/blog//1</id>
+    <updated>2010-07-27T10:41:02Z</updated>
+    <subtitle>La comunitat de programadors de Perl d&apos;àmbit català</subtitle>
+    <generator uri="http://www.sixapart.com/movabletype/">Movable Type 4.38</generator>
+
+<entry>
+    <title>Perl al Dia de la Llibertat del Programari 2010</title>
+    <link rel="alternate" type="text/html" href="http://perl.cat/blog/2010/07/perl-al-dia-de-la-llibertat-del-programari-2010.html" />
+    <id>tag:perl.cat,2010:/blog//1.21</id>
+
+    <published>2010-07-27T10:26:53Z</published>
+    <updated>2010-07-27T10:41:02Z</updated>
+
+    <summary>Aquest any el Dia de la Llibertat del Programari a Barcelona se celebrarà el dissabte 18 de setembre, al centre cultural Can Fabra del barri de Sant Andreu. L&apos;any passat vaig fer 12 xerrades de 5 minuts sobre Perl i...</summary>
+    <author>
+        <name>alexm</name>
+        <uri>http://alexm.org/</uri>
+    </author>
+    
+        <category term="català" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="difusió" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="perl" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="dlp2010" label="dlp2010" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="modernperl" label="modern perl" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="perl" label="perl" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="perl6" label="perl 6" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="sfd2010" label="sfd2010" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://perl.cat/blog/">
+        <![CDATA[<p>Aquest any el <a href="http://softwarefreedomday.org/" title="Software Freedom Day">Dia de la Llibertat del Programari</a> a Barcelona se celebrarà el dissabte 18 de setembre, al centre cultural Can Fabra del barri de Sant Andreu.</p>
+
+<p>L'any passat vaig fer <a href="http://github.com/alexm/acme-pm-barcelona/blob/master/lib/Acme/PM/Barcelona/12x5_ca.pod" title="presentació de la xerrada 12x5">12 xerrades de 5 minuts</a> sobre <a href="http://www.perl.org/" title="El lenguatge de programació Perl">Perl</a> i aquest any parlaré de <a href="http://www.modernperlbooks.com/" title="Web sobre Perl modern">Perl modern</a> i de <a href="http://perl6.org/" title="Web de Perl 6">Perl 6</a>, però també faré un taller d'introducció a Perl 6 per escalfar motors.</p>
+
+<p>Vegeu <a href="http://wiki.caliu.cat/index.php/DPL2010" title="informació del DLP2010 a Barcelona">el programa</a> sencer al wiki del <a href="http://caliu.cat/" title="Caliu.cat">Caliu</a>.</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Celebrem Perl 6 amb un menú complet</title>
+    <link rel="alternate" type="text/html" href="http://perl.cat/blog/2010/07/celebrem-perl-6-amb-un-menu-complet.html" />
+    <id>tag:perl.cat,2010:/blog//1.20</id>
+
+    <published>2010-07-26T18:13:43Z</published>
+    <updated>2010-07-30T15:20:21Z</updated>
+
+    <summary>Aquest dijous 29 de juliol està previst que surti a la llum Rakudo Star, la primera implementació [gairebé] completa i estable de Perl 6. Es nota que la comunitat en té moltes ganes perquè se&apos;n parla molt i els Perl...</summary>
+    <author>
+        <name>alexm</name>
+        <uri>http://alexm.org/</uri>
+    </author>
+    
+        <category term="català" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="difusió" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="perl" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="barcelona" label="barcelona" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="meeting" label="meeting" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="mongers" label="mongers" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="perl" label="perl" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="perl6" label="perl 6" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="rakudo" label="rakudo" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="star" label="star" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://perl.cat/blog/">
+        <![CDATA[<p>Aquest dijous 29 de juliol està previst que surti a la llum <a href="http://rakudo.org/node/73" title="Rakudo Star (a 'usable Perl 6') to be released by July 29">Rakudo Star</a>, la primera implementació [gairebé] completa i estable de <a href="http://perl6.org/" title="Web de Perl 6">Perl 6</a>. Es nota que la comunitat en té moltes ganes perquè se'n parla molt i els <a href="http://barcelona.pm.org/" title="Barcelona.pm">Perl Mongers de Barcelona</a> farem una petita celebració aprofitant que el mateix dijous tenim la reunió del mes de juliol.</p>
+
+<p>Us he preparat un menú força complet per introduir-vos a Perl 6:</p>
+<ul>
+<li><strong>20:00 - l'entrant:</strong> una petit tutorial per instal·lar Rakudo i Parrot</li>
+<li><strong>20:30 - el primer:</strong> la traducció de la presentació de Perl 6 a <a href="http://warszawa.pm.org/" title="Perl Mongers de Warszawa, Polònia">Warszawa.pm</a></li>
+<li><strong>21:00 - el segon:</strong> la presentació d'en <a href="http://www.pmichaud.com/wiki/Pm/AboutPm" title="Patrick Michaud">Pm</a> a l'OSCON d'enguany</li>
+<li><strong>22:00 - les postres:</strong> <code>/(salsitxa|cervesa)*/</code> a la fresca</li>
+</ul>
+
+<p>El lloc triat per la celebració és la tradicional <a href="http://www.ac.upc.edu/ca/localitzacio" title="com arribar al Departament d'Arquitectura de Computadors (UPC)">sala C6-E101 de l'edifici C6</a> al Campus Nord de la UPC (és el lloc de sempre per als que hàgiu estat anteriorment a alguna festa dels mongers). Si tot va bé, retransmetrem en directe l'esdeveniment i tot.</p>
+
+<p><strong>Correcció:</strong> <a href="http://blogs.perl.org/users/alex_muntada/2010/07/celebrating-perl-6-with-a-full-menu.html#comment-3341" title="comentari a la versió anglesa d'aquest apunt">m'han fet notar</a> que dir que és una implementació completa no és exacte, tot i que <a href="http://rakudo.org/status" title="més del 80% de les especificacions de Perl 6 a la pàgina d'estat de Rakudo">s'hi acosta força</a>.</p>
+
+<p><strong>Actualització:</strong> aquestes són les 2 càmeres disponibles durant  la presentació (sense àudio, ho sento):</p>
+<ul>
+<li>Ponent: <code>vlc http://videoserver.ac.upc.es:921/</code></li>
+<li>Transparències: <code>vlc http://videoserver.ac.upc.es:922/</code></li>
+</ul>
+
+<p><strong>Foto testimonial:</strong></p>
+<div><a href="http://www.flickr.com/photos/alexm/sets/72157605399264683/with/4843929062/" title="Barcelona.pm Photo Set on Flickr"><img src="http://farm5.static.flickr.com/4131/4843929062_57a26c4e65.jpg" width="500" height="281" alt="Rakudo * Celebration Testimonial" /></a></div>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Empreses, organismes i entitats que apostin per Perl</title>
+    <link rel="alternate" type="text/html" href="http://perl.cat/blog/2010/05/empreses-organismes-i-entitats-que-apostin-per-perl.html" />
+    <id>tag:perl.cat,2010:/blog//1.19</id>
+
+    <published>2010-05-26T15:06:22Z</published>
+    <updated>2010-05-26T15:10:48Z</updated>
+
+    <summary>M&apos;agradaria fer un directori d&apos;empreses, organismes i entitats relativament locals (d&apos;àmbit català, per exemple) que apostin d&apos;una manera o altra per Perl. M&apos;interessen sobretot les petites i mitjanes empreses o d&apos;altres entitats en què conegueu positivament que s&apos;usa Perl de...</summary>
+    <author>
+        <name>alexm</name>
+        <uri>http://alexm.org/</uri>
+    </author>
+    
+        <category term="català" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="difusió" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="perl" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="directori" label="directori" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="directory" label="directory" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="local" label="local" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="perl" label="perl" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://perl.cat/blog/">
+        <![CDATA[<p>M'agradaria fer un directori d'empreses, organismes i entitats relativament locals (d'àmbit català, per exemple) que apostin d'una manera o altra per Perl.</p>
+
+<p>M'interessen sobretot les petites i mitjanes empreses o d'altres entitats en què conegueu positivament que s'usa Perl de forma considerable i preferiria evitar les empreses molt grans a menys que tinguin una aposta ben clara per Perl. Per exemple: els serveis TIC del <a href="http://www.ac.upc.edu/" title="la web del DAC a la UPC">Departament d'Arquitectura de Computadors de la UPC</a> desenvolupem majoritàriament en Perl.</p>
+
+<p>Em podeu ajudar a confeccionar el directori?</p>
+]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Reunió de maig dels mongers de Barcelona</title>
+    <link rel="alternate" type="text/html" href="http://perl.cat/blog/2010/05/reunio-de-maig-dels-mongers-de-barcelona.html" />
+    <id>tag:perl.cat,2010:/blog//1.18</id>
+
+    <published>2010-05-26T14:44:21Z</published>
+    <updated>2010-05-26T14:56:37Z</updated>
+
+    <summary>El temps passa volant i demà tornem a tenir la reunió mensual dels mongers de Barcelona al segon pis del Viena del carrer Pelai, cap a les 20:00. A banda de comentar com han anat les primeres eleccions del grup,...</summary>
+    <author>
+        <name>alexm</name>
+        <uri>http://alexm.org/</uri>
+    </author>
+    
+        <category term="català" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="perl" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="barcelona" label="barcelona" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="meeting" label="meeting" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="mongers" label="mongers" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="perl" label="perl" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="reunió" label="reunió" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="shipwright" label="shipwright" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://perl.cat/blog/">
+        <![CDATA[<p>El temps passa volant i demà tornem a tenir la reunió mensual dels mongers de Barcelona al segon pis del Viena del carrer Pelai, cap a les 20:00.</p>
+
+<p>A banda de comentar com han anat les primeres eleccions del grup, podem parlar també de les perspectives de futur, del famós concurs de samarretes que s'ha quedat a l'aire, de l'etern tema de la web dels mongers i qualsevol altra cosa que us vingui de gust.</p>
+
+<p>D'altra banda, per celebrar que m'heu triat com a líder del grup, miraré de dur preparada una xerrada d'introducció al <a href="http://search.cpan.org/dist/Shipwright/" title="Shipwright al CPAN">Shipwright</a>.</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Eleccions a Barcelona.pm</title>
+    <link rel="alternate" type="text/html" href="http://perl.cat/blog/2010/04/eleccions-a-barcelonapm.html" />
+    <id>tag:perl.cat,2010:/blog//1.17</id>
+
+    <published>2010-04-30T08:10:45Z</published>
+    <updated>2010-07-30T13:39:47Z</updated>
+
+    <summary>Us faig 5 cèntims del que vam acordar per a les eleccions del líder del grup: les votacions d&apos;aquest any seran del 6 al 20 de maig en Francesc Guasch farà de secretari i enviarà els correus per a votar...</summary>
+    <author>
+        <name>alexm</name>
+        <uri>http://alexm.org/</uri>
+    </author>
+    
+        <category term="català" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="perl" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="barcelona" label="barcelona" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="eleccions" label="eleccions" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="mongers" label="mongers" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="perl" label="perl" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://perl.cat/blog/">
+        <![CDATA[<p>Us faig 5 cèntims del que vam acordar per a les eleccions del líder del grup:</p>
+<ul>
+<li>les votacions d'aquest any seran del 6 al 20 de maig</li>
+<li>en Francesc Guasch farà de secretari i enviarà els correus per a votar mitjançant el sistema <a href="http://www.cs.cornell.edu/andru/civs.html" title="Condorcet Internet Voting Service">CIVS</a></li>
+<li>el líder del grup s'haurà de renovar cada any</li>
+</ul>
+
+<p>Aquests són els candidats per aquest any:</p>
+<ul>
+<li>Xavier Noria</li>
+<li>Alex Muntada</li>
+<li>Jose Luís Pérez</li>
+<li>Sergio Arias</li>
+</ul>
+
+<p><strong>Actualització:</strong> El <a href="http://www.cs.cornell.edu/w8/~andru/cgi-perl/civs/results.pl?id=E_ce815cb777216a0f" title="resultat de la votació del líder dels mongers de Barcelona">resultat de la votació</a> ha estat publicat i <a href="http://mail.pm.org/pipermail/barcelona-pm/2010-May/003426.html" title="anunci del guanyador de les eleccions">anunciat a la llista de correu</a>.</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Ordre del dia per la reunió de Barcelona.pm</title>
+    <link rel="alternate" type="text/html" href="http://perl.cat/blog/2010/04/ordre-del-dia-per-la-reunio-de-barcelonapm.html" />
+    <id>tag:perl.cat,2010:/blog//1.16</id>
+
+    <published>2010-04-28T16:53:54Z</published>
+    <updated>2010-07-30T13:38:56Z</updated>
+
+    <summary>Demà dijous 29 d&apos;abril és el darrer dijous de mes i farem la reunió setmanal dels Barcelona.pm. En principi havia de ser una reunió força tranquil·la i tradicional, és a dir, sense cap xerrada prevista per tant una reunió purament...</summary>
+    <author>
+        <name>alexm</name>
+        <uri>http://alexm.org/</uri>
+    </author>
+    
+        <category term="català" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="perl" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="barcelona" label="barcelona" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="catalyst" label="catalyst" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="mongers" label="mongers" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="moose" label="moose" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="nagios" label="nagios" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="opsview" label="opsview" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="perl" label="perl" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="votacions" label="votacions" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://perl.cat/blog/">
+        <![CDATA[<p>Demà dijous 29 d'abril és el darrer dijous de mes i farem la reunió setmanal dels <a href="http://barcelona.pm.org/Barcelona.pm" title="Barcelona Perl Mongers">Barcelona.pm</a>. En principi havia de ser una reunió força tranquil·la i tradicional, és a dir, sense cap xerrada prevista per tant una reunió purament social. Però en unes setmanes la cosa ha canviat, us ho perdreu?</p>
+<ol>
+<li>en <a href="http://www.hashref.com/" title="Xavier Noria">Xavier</a> posant damunt la taula la qüestió de la renovació del líder del grup,</li>
+<li>en <a href="http://pplusdomain.net/" title="Jose Luis Martinez">Jose Luis</a> amb una xerrada sobre <a href="http://www.opsview.org/" title="Opsview">Opsview</a> i <a href="http://www.nagios.org/" title="Nagios">Nagios</a>,</li>
+<li>en <a href="http://es.linkedin.com/in/diegok" title="Diego Kuperman">Diego</a> amb una altra xerrada sobre <a href="http://www.catalystframework.org/" title="Catalyst Web Framework">Catalyst</a> i <a href="http://www.iinteractive.com/moose/" title="Moose, a postmodern object system for Perl">Moose</a>.</li>
+</ol>
+
+<p><strong>Actualització:</strong> la reunió es farà al lloc de sempre, al segon pis del Viena del carrer Pelai a Barcelona, a partir de les 20:00.</p>
+
+<p><strong>Actualització:</strong> us adjunto una foto cortesia d'en Sergio:
+<a href="http://www.flickr.com/photos/alexm/4682484739/" title="Barcelona.pm Meeting on April 2010 by Alex Muntada, on Flickr"><img src="http://farm2.static.flickr.com/1285/4682484739_846d5f5454.jpg" width="500" height="209" alt="Barcelona.pm Meeting on April 2010" /></a>
+</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Reunió de febrer dels Perl mongers de Barcelona</title>
+    <link rel="alternate" type="text/html" href="http://perl.cat/blog/2010/02/reunio-de-febrer-dels-perl-mongers-de-barcelona.html" />
+    <id>tag:perl.cat,2010:/blog//1.14</id>
+
+    <published>2010-02-24T19:47:52Z</published>
+    <updated>2010-02-25T11:03:24Z</updated>
+
+    <summary> Demà dijous 24 farem la reunió de febrer dels Perl Mongers de Barcelona al pis de dalt del Viena del carrer Pelai de Barcelona, a partir de les 20:00, com de costum. L&apos;Esteve i en Xavier ens explicaran una...</summary>
+    <author>
+        <name>alexm</name>
+        <uri>http://alexm.org/</uri>
+    </author>
+    
+        <category term="català" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="perl" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="barcelona" label="barcelona" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="fluiddb" label="fluiddb" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="mongers" label="mongers" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="perl" label="perl" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://perl.cat/blog/">
+        <![CDATA[ <p>Demà dijous 24 farem la reunió de febrer dels <a href="http://barcelona.pm.org/" title="Barcelona Perl Mongers">Perl Mongers de Barcelona</a> al pis de dalt del Viena del carrer Pelai de Barcelona, a partir de les 20:00, com de costum.</p>
+
+<p>L'<a href="http://www.linkedin.com/in/estevefernandez" title="Esteve Fernandez">Esteve</a> i en <a href="http://www.hashref.com/" title="Xavier Noria">Xavier</a> ens explicaran una mica què és això del <a href="http://doc.fluidinfo.com/fluidDB/" title="FluidDB, a new kind of hosted (cloud) database">FluidDB</a>, <s>en el que portem treballant un temps</s>. L'Esteve ens farà una introducció a FluidDB i després en Xavier ens explicarà algunes particularitats de la implementació del client de Perl, <a href="http://search.cpan.org/perldoc?Net::FluidDB" title="Net::FluidDB al CPAN">Net::FluidDB</a>.</p>
+
+<p>A més a més, us duré uns regalets que em vaig endur de l'<em>stand</em> de Perl a la <a href="http://www.fosdem.org/" title="Free Open Source Developers European Meeting">FOSDEM</a> d'aquest any.</p>
+
+<p><strong>Correcció:</strong> Els desenvolupadors de FluidDB són l'Esteve i en <a href="http://jon.es/terry.html" title="Pàgina personal d'en Terry Jones">Terry Jones</a>. En Xavier va fer el client de Perl, però no és un desenvolupador del projecte. Dispenseu el malentès.</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>12 xerrades, 5 minuts cadascuna</title>
+    <link rel="alternate" type="text/html" href="http://perl.cat/blog/2009/09/12-xerrades-5-minuts-cadascuna.html" />
+    <id>tag:perl.cat,2009:/blog//1.12</id>
+
+    <published>2009-09-24T11:49:38Z</published>
+    <updated>2010-07-30T13:38:04Z</updated>
+
+    <summary>El passat dissabte 19 vaig presentar aquesta xerrada durant la celebració del DLP2009 al centre cívic del barri de les Corts de Barcelona. Era el primer cop que preparava una presentació en aquest format, el qual ens va mostrar l&apos;any...</summary>
+    <author>
+        <name>alexm</name>
+        <uri>http://alexm.org/</uri>
+    </author>
+    
+        <category term="català" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="perl" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="12x5" label="12x5" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="barcelona" label="barcelona" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="dlp2009" label="dlp2009" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="lightning" label="lightning" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="llampec" label="llampec" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="mongers" label="mongers" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="perl" label="perl" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="sfd09" label="sfd09" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="talks" label="talks" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="xerrades" label="xerrades" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://perl.cat/blog/">
+        <![CDATA[<p>El passat dissabte 19 vaig presentar <span class="mt-enclosure mt-enclosure-file" style="display: inline;"><a href="http://perl.cat/blog/barcelona-pm/12x5_ca.html">aquesta xerrada</a></span> durant la celebració del <a href="http://wiki.caliu.cat/index.php/DLP2009" title="Dia de la Llibertat del Programari 2009">DLP2009</a> al centre cívic del barri de les Corts de Barcelona.</p>
+
+<p>Era el primer cop que preparava una presentació en aquest format, el qual ens va mostrar l'any 2003 en <a href="http://perl.plover.com/" title="M-J. Dominus Perl Paraphernalia">Mark Jason Dominus</a> durant una visita als <a href="http://barcelona.pm.org" title="Barcelona Perl Mongers">Perl Mongers de Barcelona</a>. Amb aquesta presentació pretenia assolir 3 objectius en carambola:</p>
+<ol>
+<li>dedicar més temps a Perl però de forma més productiva,</li>
+<li>reactivar una mica la comunitat de Perl Mongers local, i</li>
+<li>donar a conèixer Perl i la seva comunitat a tothom, fins i tot sense que sàpiga programar.</li>
+</ol>
+
+<p>Ho he aconseguit? Doncs bé, crec que en part sí i per tant estic content. He dedicat més temps a Perl i he produït un resultat prou important, la xerrada. Amb l'excusa de la xerrada, he creat un <a href="http://github.com/alexm/acme-pm-barcelona" title="Acme::PM::Barcelona a github">repositori de codi</a> al qual s'han apuntat diversos mongers i han col·laborat en la preparació del material, però d'altres també han col·laborat a través del correu. Finalment, la xerrada crec que va funcionar prou bé. Hi havia força gent, entre 15-20 persones, la majoria dels quals segurament tenien nocions de programació, però també n'hi havia que no. Tot i que també sembla que <a href="http://caliu.cat/blog/2009/09/13/dlp-2009/#comment-18463" title="comentari a l'apunt del DLP2009 de caliu.cat">les <em>rutinetes</em> de les quals parlava</a> van causar un impacte negatiu com a mínim a una persona.</p>
+
+<p>Si teniu comentaris o suggeriments sobre el que us va semblar la xerrada o alguna manera de com millorar-la, tant en el contingut com en la forma de la presentació, els podeu fer aquí mateix o me'ls podeu enviar per correu a <a href="mailto:alexm a alexm punt org" title="">alexm a alexm punt org</a>.</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Reunió dels mongers tot i la Mercè</title>
+    <link rel="alternate" type="text/html" href="http://perl.cat/blog/2009/09/reunio-dels-mongers-tot-i-la-merce.html" />
+    <id>tag:perl.cat,2009:/blog//1.11</id>
+
+    <published>2009-09-24T10:50:00Z</published>
+    <updated>2009-09-24T10:57:54Z</updated>
+
+    <summary>Avui dijous 24 és el darrer dijous del mes de setembre i per tant toca fer reunió dels Perl Mongers de Barcelona. Ens trobarem a les 20h a la segona planta del Viena del carrer Pelai, com de costum. Però...</summary>
+    <author>
+        <name>alexm</name>
+        <uri>http://alexm.org/</uri>
+    </author>
+    
+        <category term="català" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="perl" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="barcelona" label="barcelona" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="dlp2009" label="dlp2009" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="mongers" label="mongers" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="perl" label="perl" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="sfd09" label="sfd09" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://perl.cat/blog/">
+        <![CDATA[<p>Avui dijous 24 és el darrer dijous del mes de setembre i per tant toca fer reunió dels Perl Mongers de Barcelona. Ens trobarem a les 20h a la segona planta del Viena del carrer Pelai, com de costum. Però també passa que avui és la Mercè i hi ha activitats i festa per tot Barcelona, així que potser serà una reunió poc concorreguda.</p>
+
+<p>En qualsevol cas, si veniu podreu veure la presentació de les 12x5 xerrades que vaig fer al <a href="http://wiki.caliu.cat/index.php/DLP2009" title="Dia de la Llibertat del Programari 2009">DLP2009</a> dissabte passat, us presentaré el nou goril·la que tenim al canals d'IRC i el seu company negao, podrem parlar sobre la meva idea de preparar un directori d'empreses que ofereixen serveis en Perl i ofertes de treball relacionades, etc.</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Reunió dels Perl Mongers de Barcelona</title>
+    <link rel="alternate" type="text/html" href="http://perl.cat/blog/2009/08/reunio-dels-perl-mongers-de-barcelona.html" />
+    <id>tag:perl.cat,2009:/blog//1.9</id>
+
+    <published>2009-08-25T13:03:46Z</published>
+    <updated>2010-07-30T13:26:42Z</updated>
+
+    <summary> Us recordo que aquest dijous 27 d&apos;agost toca una nova reunió dels Perl Mongers de Barcelona. És agost i fa calor però segur que us vindrà de gust fer una cerveseta fresca en bona companyia, així que no falteu...</summary>
+    <author>
+        <name>alexm</name>
+        <uri>http://alexm.org/</uri>
+    </author>
+    
+        <category term="català" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="perl" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="barcelona" label="barcelona" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="mongers" label="mongers" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="perl" label="perl" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://perl.cat/blog/">
+        <![CDATA[ <p>Us recordo que aquest dijous 27 d'agost toca una nova reunió dels Perl Mongers de Barcelona. És agost i fa calor però segur que us vindrà de gust fer una cerveseta fresca en bona companyia, així que no falteu al Viena del carrer Pelai a partir de les 20h. Serem com de costum a la segona planta, prop de la finestra o no.</p>
+
+<p>Per tal d'animar-vos a venir, tindrem algunes sorpreses:</p>
+<ul>
+<li>el famós codi de descompte per a comprar a can <a href="http://oreilly.com/" title="llibres d'Oreilly">O'Reilly</a></li>
+<li>el vídeo d'en Piers Cawley cantant a la <a href="http://yapceurope2009.org/" title="Yet Another Perl Conference Europe 2009">YAPC::EU::2009</a></li>
+<li><a href="http://bookcrossing.com/mybookshelf/cdamian/page_1/statusfilter_2" title="els llibres d'en Christof a Bookcrossing">els llibres</a> de regal d'en Christof</li>
+<li>els plans per a fer una xerrada o taller <a href="http://dlp.caliu.cat/" title="organització del Software Freedom Day per part de Caliu">el Dia de la Llibertat del Programari</a></li>
+<li>les idees pel bot d'IRC</li>
+</ul>
+<p>Feu els vostres propis suggeriments o millor encara, veniu!</p>
+
+<p>
+<strong>Actualització:</strong> El codi de descompte és acumulable amb <a href="http://use.perl.org/~brian_d_foy/journal/39524?from=rss" title="$9.99 Learning Perl and Mastering Perl e-books from O'Reilly">la nova promoció de preus</a> de la versió digital i sense <a href="http://drm.info" title="Digital Restrictions Management">DRM</a> dels llibres <a href="http://oreilly.com/catalog/9780596520106/" title="Learning Perl a can O'Reilly">Learning Perl</a> i <a href="http://oreilly.com/catalog/9780596527242/" title="Mastering Perl a can O'Reilly">Mastering Perl</a>, d'en brian d foy.
+</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>La conferència europea de Perl, YAPC::EU 2009</title>
+    <link rel="alternate" type="text/html" href="http://perl.cat/blog/2009/07/la-conferencia-europea-de-perl-yapceu-2009.html" />
+    <id>tag:perl.cat,2009:/blog//1.8</id>
+
+    <published>2009-07-30T23:48:50Z</published>
+    <updated>2009-07-31T00:16:45Z</updated>
+
+    <summary>La setmana vinent comença l&apos;edició d&apos;enguany de la conferència europea de Perl, YAPC::EU 2009, que es durà a terme a la Universidade de Lisboa. Aquest any serà un èxit d&apos;assistència per als Barcelona.pm, a més a més tindrem l&apos;oportunitat de...</summary>
+    <author>
+        <name>alexm</name>
+        <uri>http://alexm.org/</uri>
+    </author>
+    
+        <category term="català" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="perl" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="barcelona" label="barcelona" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="lisboa" label="lisboa" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="madrid" label="madrid" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="mongers" label="mongers" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="perl" label="perl" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="yapceu2009" label="yapceu2009" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://perl.cat/blog/">
+        <![CDATA[<p>La setmana vinent comença l'edició d'enguany de la conferència europea de <a href="http://www.perl.org/" title="The Perl Directory">Perl</a>, <a href="http://yapceurope2009.org/ye2009/" title="Yet Another Perl Conference Europe 2009">YAPC::EU 2009</a>, que es durà a terme a la Universidade de Lisboa. Aquest any serà un èxit d'assistència per als <a href="http://barcelona.pm.org/" title="Barcelona Perl Mongers">Barcelona.pm</a>, a més a més tindrem l'oportunitat de retrobar-nos amb d'altres companys de <a href="http://madrid.pm.org/" title="Madrid Perl Mongers">Madrid.pm</a> i Granada.pm, i de conèixer en persona d'altres als que només hem llegit per correu o IRC.</p>
+
+<p>Amb <a href="http://yapceurope2009.org/ye2009/stats" title="YAPC::EU 2009 Statistics">més de 300 assistents confirmats</a> la cosa promet moltíssim, encara que només duri 3 dies, de dilluns a dimecres vinent. El més important és que comptarem amb la presència de figures molt significatives de la comunitat de Perl, entre les quals destaca el creador d'aquest llenguatge de programació, el magnífic <a href="http://www.wall.org/%7Elarry/" title="Larry Wall's Home Page">Larry Wall</a>.</p>
+
+<p>Us esperem a Lisboa!</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Benvinguts a Perl.cat</title>
+    <link rel="alternate" type="text/html" href="http://perl.cat/blog/2009/05/benvinguts-a-perl-cat.html" />
+    <id>tag:perl.cat,2009:/blog//1.1</id>
+
+    <published>2009-05-07T17:06:26Z</published>
+    <updated>2010-07-30T13:34:52Z</updated>
+
+    <summary>Amb aquest apunt us dono la benvinguda a la comunitat de programadors de Perl d&apos;àmbit català. Ja fa molt de temps que els Perl Mongers de Barcelona veníem parlant de comprar el domini Perl.cat i avui mateix m&apos;ha fet decidir...</summary>
+    <author>
+        <name>alexm</name>
+        <uri>http://alexm.org/</uri>
+    </author>
+    
+        <category term="català" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="perl" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="cat" label=".cat" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="barcelona" label="barcelona" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="mongers" label="mongers" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="movabletype" label="movable type" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="perl" label="perl" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://perl.cat/blog/">
+        <![CDATA[<p>Amb aquest apunt us dono la benvinguda a la comunitat de programadors de Perl d'àmbit català.</p>
+
+<p>Ja fa molt de temps que els <a href="http://barcelona.pm.org/Barcelona.pm">Perl Mongers de Barcelona</a> veníem parlant de comprar el domini <a href="http://perl.cat/">Perl.cat</a> i avui mateix m'ha fet decidir <a href="http://www.domini.cat/santjordi/">la campanya de promoció del domini .cat</a> que els seus responsables han posat en marxa per Sant Jordi. M'ha semblat una iniciativa molt didàctica i la rebaixa del 50% s'ho val. Així doncs, després de comprar el domini, confirmar el compromís d'ús del .cat i configurar el DNS, he creat una pàgina d'inici molt senzilla
+i m'he posat a instaŀlar el <a href="http://www.movabletype.org/opensource/">Movable Type OS</a> al servidor dels mongers. Ara caldrà decidir com reestructurem la web dels mongers, començar a omplir d'apunts aquest blog, etc.</p>
+
+<p>Aquí teniu alguns enllaços de la comunitat:</p>
+<ul>
+<li><a href="http://barcelona.pm.org/Barcelona.pm">Perl Mongers de Barcelona</a>
+  <ul>
+  <li><a href="http://barcelona.pm.org/">la web</a></li>
+  <li><a href="http://mail.pm.org/mailman/listinfo/barcelona-pm">la llista de correu</a></li>
+  <li>El canal <b>#barcelona.pm</b> a <b>irc.perl.org</b></li>
+  </ul>
+</li>
+<li>Perl.cat
+  <ul>
+  <li><a href="http://perl.cat/blog">El blog</a></li>
+  <li><a href="http://gitorious.org/projects/perl-cat">El projecte</a> (de moment buit)</li>
+  </ul>
+</li>
+</ul>
+
+<p>Si teniu d'altres suggeriments per afegir a la llista o voleu coŀlaborar amb algun dels que hi ha, no dubteu en comentar-m'ho.</p>
+
+<p>I per aquells que no s'ho creuen, <a href="http://perlisalive.com/">Perl està ben viu!</a></p>]]>
+        
+    </content>
+</entry>
+
+</feed>
